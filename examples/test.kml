@@ -1,0 +1,2312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<kml xmlns="http://earth.google.com/kml/2.1" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://earth.google.com/kml/2.1 http://code.google.com/apis/kml/schema/kml21.xsd">
+  <Document>
+    <Folder>
+      <name>Event Information</name>
+      <Placemark>
+        <name>0</name>
+        <visibility>0</visibility>
+        <styleUrl>shaded_dot</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.7500,82.9885,0.0000 </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Event/Body Pairs</name>
+      <Folder>
+        <name>EVENT_000:0</name>
+        <Folder>
+          <name>Line of Sight - 10</name>
+          <Placemark>
+            <name>Line-of-sight (A4)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: A4&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 24414.5 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: YES&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>yellow_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 50.9648,33.3692,2.01841e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (A3)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: A3&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 22461.8 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: YES&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>yellow_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 17.5163,51.3135,2.01886e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (B3)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: B3&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 23691.5 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: YES&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>yellow_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -10.8995,36.1792,2.01847e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (E4)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: E4&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 21623.9 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: YES&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>yellow_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -164.338,50.305,2.01884e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (D3)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: D3&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 22516.4 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: YES&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>yellow_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -134.833,38.088,2.01852e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (E2)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: E2&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 23737.1 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: YES&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>yellow_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 163.034,30.8463,2.01835e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (C3)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: C3&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 22397.3 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: YES&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>yellow_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 84.512,52.5932,2.0189e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (F2A)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: F2A&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 21508.9 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: YES&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>yellow_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -103.796,50.4284,2.01884e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (E3)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: E3&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 25485.4 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: YES&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>yellow_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -52.0448,14.5331,2.01814e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (C2)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: C2&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 22091.2 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: YES&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>yellow_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 137.754,51.244,2.01886e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+        </Folder>
+        <Folder>
+          <name>Blocked - 14</name>
+          <Placemark>
+            <name>Line-of-sight (D4)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: D4&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 31993.4 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -23.0205,-54.499,2.02017e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (E1)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: E1&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 31976.3 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 85.0936,-48.9417,2.01993e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (F4)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: F4&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 31508.5 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 54.1889,-39.9124,2.01952e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (C4)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: C4&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 29587.1 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 5.08133,-18.1836,2.01863e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (B2)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: B2&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 31579 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -132.654,-55.0582,2.02019e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (F3)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: F3&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 29698.3 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 31.0328,-17.3946,2.0186e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (F1)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: F1&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 28951.2 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -176.602,-20.2735,2.0187e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (B1A)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: B1A&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 25984.1 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 128.103,14.3228,2.01814e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (D1)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: D1&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 30716 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -66.0228,-39.765,2.01952e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (A2)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: A2&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 31837.1 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 147.807,-53.2281,2.02011e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (B4)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: B4&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 30981.6 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -85.9213,-44.9923,2.01975e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (C1)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: C1&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 28965.4 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -144.667,-22.6501,2.01879e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (D2A)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: D2A&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 28525.6 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 74.9371,-4.93434,2.01827e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Line-of-sight (A1)</name>
+            <description>&lt;ul&gt;
+            &lt;li&gt;Satellite: A1&lt;/li&gt;
+            &lt;li&gt;Event: EVENT_000:0&lt;/li&gt;
+            &lt;li&gt;Event Satellite Range: 26238.8 km&lt;/li&gt;
+            &lt;li&gt;Line of sight: NO&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+            <visibility>0</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-124.242,82.9885,-1.81899e-09 -99.2213,3.39524,2.01816e+07 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+        </Folder>
+        <Folder>
+          <name>Basis Axes</name>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-23.020492,-54.499022,20201658.819299 -22.316100,-53.697450,20472220.027152 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-23.020492,-54.499022,20201658.819299 -21.291844,-54.831341,20092588.039197 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-23.020492,-54.499022,20201658.819299 -23.020492,-53.863397,19796216.606601 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-23.020492,-54.499022,20201658.819299 -23.020492,-54.501631,18701659.271026 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-23.020492,-54.499022,20201658.819299 -17.475849,-54.901129,20244114.781829 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-23.020492,-54.499022,20201658.819299 -24.006904,-57.681531,20245074.566285 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-23.020492,-54.499022,20201658.819299 156.979508,54.840176,-3363918.847610 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>85.093634,-48.941677,20199259.927120 83.463750,-48.860723,20232029.265737 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>85.093634,-48.941677,20199259.927120 85.230037,-48.141489,20529126.823074 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>85.093634,-48.941677,20199259.927120 85.093634,-48.223345,19824297.957579 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>85.093634,-48.941677,20199259.927120 85.093634,-48.944411,18699260.424038 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>85.093634,-48.941677,20199259.927120 89.229828,-47.266747,20240953.176783 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>85.093634,-48.941677,20199259.927120 87.672377,-51.721523,20242594.196070 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>85.093634,-48.941677,20199259.927120 -94.906366,49.299918,-3365928.625203 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>54.188932,-39.912397,20195216.722934 53.065766,-39.505408,20423339.970147 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>54.188932,-39.912397,20195216.722934 54.994963,-39.354837,20509077.742309 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>54.188932,-39.912397,20195216.722934 54.188932,-39.074907,19877211.844605 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>54.188932,-39.912397,20195216.722934 54.188932,-39.915114,18695217.215468 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>54.188932,-39.912397,20195216.722934 57.408299,-42.041666,20238319.042042 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>54.188932,-39.912397,20195216.722934 51.255368,-42.269223,20238399.517011 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>54.188932,-39.912397,20195216.722934 -125.811068,40.269775,-3369284.605875 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>5.081327,-18.183561,20186261.750542 4.982743,-17.853744,20659909.238736 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>5.081327,-18.183561,20186261.750542 6.209769,-18.150465,20232999.149297 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>5.081327,-18.183561,20186261.750542 5.081327,-17.151603,20034508.582486 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>5.081327,-18.183561,20186261.750542 5.081327,-18.185198,18686261.930679 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>5.081327,-18.183561,20186261.750542 7.066121,-15.564884,20228039.950295 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>5.081327,-18.183561,20186261.750542 7.854293,-20.078458,20229008.707175 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>5.081327,-18.183561,20186261.750542 -174.918673,18.400578,-3376036.684495 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>50.964788,33.369164,20184075.533331 49.976043,32.994996,20450431.788465 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>50.964788,33.369164,20184075.533331 51.763883,32.910998,20511121.250338 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>50.964788,33.369164,20184075.533331 50.964788,34.261344,20462342.407992 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>50.964788,33.369164,20184075.533331 50.964788,33.371702,18684075.963859 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>50.964788,33.369164,20184075.533331 53.517584,30.963370,20225597.553998 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>50.964788,33.369164,20184075.533331 48.188075,31.146133,20225650.669654 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>50.964788,33.369164,20184075.533331 -129.035212,-33.703645,-3371624.714315 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-132.653845,-55.058172,20201889.007929 -131.239416,-55.653037,20011874.671125 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-132.653845,-55.058172,20201889.007929 -133.959510,-55.706174,19995171.205001 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-132.653845,-55.058172,20201889.007929 -132.653845,-54.431226,19793588.812120 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-132.653845,-55.058172,20201889.007929 -132.653845,-55.060764,18701889.453334 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-132.653845,-55.058172,20201889.007929 -127.023726,-54.974123,20244173.700564 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-132.653845,-55.058172,20201889.007929 -132.741413,-58.287404,20245311.765086 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-132.653845,-55.058172,20201889.007929 47.346155,55.396891,-3363722.821588 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>31.032770,-17.394585,20186048.535514 30.459903,-17.121337,20596427.861405 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>31.032770,-17.394585,20186048.535514 31.991236,-17.227405,20435558.448166 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>31.032770,-17.394585,20186048.535514 31.032770,-16.358288,20040888.243750 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>31.032770,-17.394585,20186048.535514 31.032770,-17.396160,18686048.702331 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>31.032770,-17.394585,20186048.535514 33.057307,-19.999544,20228956.833078 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>31.032770,-17.394585,20186048.535514 28.266221,-19.280903,20228777.885386 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>31.032770,-17.394585,20186048.535514 -148.967230,17.603448,-3376209.325715 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>17.516317,51.313463,20188643.447717 17.011826,50.518511,20489681.205546 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>17.516317,51.313463,20188643.447717 19.145488,51.049650,20287227.969499 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>17.516317,51.313463,20188643.447717 17.516317,51.977781,20580743.948492 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>17.516317,51.313463,20188643.447717 17.516317,51.316159,18688643.929916 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>17.516317,51.313463,20188643.447717 22.107827,49.916064,20230464.735720 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>17.516317,51.313463,20188643.447717 15.554193,48.339282,20229880.121629 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>17.516317,51.313463,20188643.447717 -162.483683,-51.665995,-3365059.273271 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-10.899486,36.179168,20184682.048431 -10.652566,35.562490,20582713.823810 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-10.899486,36.179168,20184682.048431 -9.582246,36.292757,20112976.848821 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-10.899486,36.179168,20184682.048431 -10.899486,37.040712,20482872.571506 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-10.899486,36.179168,20184682.048431 -10.899486,36.181800,18684682.511170 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-10.899486,36.179168,20184682.048431 -8.001377,38.446149,20227827.542481 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-10.899486,36.179168,20184682.048431 -8.130361,33.874215,20226199.315791 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-10.899486,36.179168,20184682.048431 169.100514,-36.525718,-3370639.205742 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-176.602200,-20.273452,20186984.254360 -176.532678,-20.653644,19719374.607462 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-176.602200,-20.273452,20186984.254360 -177.750902,-20.291900,20163880.991598 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-176.602200,-20.273452,20186984.254360 -176.602200,-19.253956,20017906.629025 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-176.602200,-20.273452,20186984.254360 -176.602200,-20.275247,18686984.470749 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-176.602200,-20.273452,20186984.254360 -174.566151,-17.674200,20228708.559697 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-176.602200,-20.273452,20186984.254360 -173.811940,-22.194096,20229777.745003 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-176.602200,-20.273452,20186984.254360 3.397800,20.511236,-3375548.085627 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-164.338259,50.305004,20188358.153572 -163.869409,51.112437,19883824.620207 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-164.338259,50.305004,20188358.153572 -165.975721,50.518276,20106724.817313 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-164.338259,50.305004,20188358.153572 -164.338259,50.983994,20574978.106521 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-164.338259,50.305004,20188358.153572 -164.338259,50.307720,18688358.643003 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-164.338259,50.305004,20188358.153572 -159.680314,51.661956,20231186.905814 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-164.338259,50.305004,20188358.153572 -162.201056,47.394537,20229612.209397 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-164.338259,50.305004,20188358.153572 15.661741,-50.660251,-3365427.224516 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>128.102640,14.322780,20181394.368288 127.216116,14.487893,19885506.633178 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>128.102640,14.322780,20181394.368288 127.426105,14.114532,20564560.797708 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>128.102640,14.322780,20181394.368288 128.102640,15.364427,20309490.409508 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>128.102640,14.322780,20181394.368288 128.102640,14.324104,18681394.486170 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>128.102640,14.322780,20181394.368288 130.014847,11.677253,20223288.977224 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>128.102640,14.322780,20181394.368288 125.405603,12.431975,20223393.510957 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>128.102640,14.322780,20181394.368288 -51.897360,-14.498392,-3376816.633295 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-134.832517,38.088013,20185176.191672 -133.844515,38.558172,19911012.383060 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-134.832517,38.088013,20185176.191672 -135.814860,38.561030,19909368.554215 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-134.832517,38.088013,20185176.191672 -134.832517,38.927601,20496495.203758 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-134.832517,38.088013,20185176.191672 -134.832517,38.090696,18685176.671756 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-134.832517,38.088013,20185176.191672 -131.962107,35.809620,20226690.993229 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-134.832517,38.088013,20185176.191672 -137.592201,35.724836,20226655.032521 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-134.832517,38.088013,20185176.191672 45.167483,-38.440846,-3369951.835572 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>163.033743,30.846281,20183503.591025 162.659394,31.383494,19774471.582268 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>163.033743,30.846281,20183503.591025 161.840237,30.680048,20313157.887187 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>163.033743,30.846281,20183503.591025 163.033743,31.764202,20443310.592307 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>163.033743,30.846281,20183503.591025 163.033743,30.848713,18683503.986778 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>163.033743,30.846281,20183503.591025 165.576371,33.257219,20226641.225736 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>163.033743,30.846281,20183503.591025 165.806963,28.687269,20225132.593218 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>163.033743,30.846281,20183503.591025 -16.966257,-31.167142,-3372475.782346 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>84.512043,52.593230,20188972.248254 82.751743,52.498325,20222701.689996 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>84.512043,52.593230,20188972.248254 84.676647,51.750051,20494266.085547 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>84.512043,52.593230,20188972.248254 84.512043,53.238649,20587854.438700 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>84.512043,52.593230,20188972.248254 84.512043,52.595896,18688972.719658 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>84.512043,52.593230,20188972.248254 89.639327,53.569353,20231655.827295 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>84.512043,52.593230,20188972.248254 86.182271,49.536241,20230188.139743 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>84.512043,52.593230,20188972.248254 -95.487957,-52.941694,-3364596.721372 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-66.022806,-39.765005,20195151.039473 -64.754568,-39.479349,20355554.067962 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-66.022806,-39.765005,20195151.039473 -65.440042,-40.402420,19846395.494372 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-66.022806,-39.765005,20195151.039473 -66.022806,-38.925740,19878145.774891 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-66.022806,-39.765005,20195151.039473 -66.022806,-39.767720,18695151.531115 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-66.022806,-39.765005,20195151.039473 -62.815918,-41.898986,20238254.529151 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-66.022806,-39.765005,20195151.039473 -68.955191,-42.117972,20238332.158263 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-66.022806,-39.765005,20195151.039473 113.977194,40.122071,-3369338.817547 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>147.806713,-53.228132,20201127.663425 146.821866,-53.961757,19951359.276765 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>147.806713,-53.228132,20201127.663425 146.309230,-52.761436,20364793.316827 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>147.806713,-53.228132,20201127.663425 147.806713,-52.573018,19802326.147272 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>147.806713,-53.228132,20201127.663425 147.806713,-53.230779,18701128.128391 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>147.806713,-53.228132,20201127.663425 153.073616,-54.051724,20243735.834567 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>147.806713,-53.228132,20201127.663425 146.117739,-56.307692,20244526.304223 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>147.806713,-53.228132,20201127.663425 -32.193287,53.574342,-3364369.320280 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-85.921291,-44.992274,20197491.253318 -84.404704,-44.928049,20227326.699416 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-85.921291,-44.992274,20197491.253318 -85.809965,-45.762913,19847181.419549 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-85.921291,-44.992274,20197491.253318 -85.921291,-44.219366,19846370.560367 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-85.921291,-44.992274,20197491.253318 -85.921291,-44.995034,18697491.760620 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-85.921291,-44.992274,20197491.253318 -82.364945,-43.018631,20239070.622322 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-85.921291,-44.992274,20197491.253318 -83.083291,-47.559786,20240761.765207 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-85.921291,-44.992274,20197491.253318 94.078709,45.354557,-3367397.055824 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-103.796474,50.428414,20188388.381960 -102.142167,50.615518,20117036.761907 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-103.796474,50.428414,20188388.381960 -104.211860,51.244504,19881995.799279 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-103.796474,50.428414,20188388.381960 -103.796474,51.105619,20575685.413339 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-103.796474,50.428414,20188388.381960 -103.796474,50.431127,18688388.870568 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-103.796474,50.428414,20188388.381960 -99.112233,51.764913,20231209.281010 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-103.796474,50.428414,20188388.381960 -101.683443,47.508755,20229639.765405 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-103.796474,50.428414,20188388.381960 76.203526,-50.783351,-3365382.050503 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-144.667249,-22.650051,20187899.671595 -143.980169,-22.992657,19813523.749170 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-144.667249,-22.650051,20187899.671595 -145.631678,-22.890046,19924438.275354 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-144.667249,-22.650051,20187899.671595 -144.667249,-21.646412,19999390.378190 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-144.667249,-22.650051,20187899.671595 -144.667249,-22.652013,18687899.930121 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-144.667249,-22.650051,20187899.671595 -142.490277,-25.199386,20230921.965524 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-144.667249,-22.650051,20187899.671595 -147.483322,-24.598191,20230742.381636 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-144.667249,-22.650051,20187899.671595 35.332751,22.909861,-3374939.995493 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-52.044752,14.533126,20181404.756639 -51.176645,14.366676,20482092.100733 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-52.044752,14.533126,20181404.756639 -51.348814,14.748936,19801767.199027 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-52.044752,14.533126,20181404.756639 -52.044752,15.573716,20311269.897905 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-52.044752,14.533126,20181404.756639 -52.044752,14.534468,18681404.877700 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-52.044752,14.533126,20181404.756639 -50.128971,11.888942,20223293.122876 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-52.044752,14.533126,20181404.756639 -54.742466,12.640054,20223399.021639 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-52.044752,14.533126,20181404.756639 127.955248,-14.711086,-3376778.430286 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>74.937131,-4.934342,20182727.925227 73.896969,-4.909504,20316554.751425 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>74.937131,-4.934342,20182727.925227 75.213428,-4.846156,20664103.300810 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>74.937131,-4.934342,20182727.925227 74.937131,-3.856428,20144406.868046 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>74.937131,-4.934342,20182727.925227 74.937131,-4.934815,18682727.940311 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>74.937131,-4.934342,20182727.925227 76.754651,-2.254618,20224925.297122 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>74.937131,-4.934342,20182727.925227 77.628700,-6.747904,20225175.331499 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>74.937131,-4.934342,20182727.925227 -105.062869,4.997213,-3377977.297727 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-99.221279,3.395240,20181562.687332 -98.151618,3.404931,20106178.816867 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-99.221279,3.395240,20181562.687332 -99.397713,3.459575,19689030.114843 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-99.221279,3.395240,20181562.687332 -99.221279,4.472361,20215866.131444 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-99.221279,3.395240,20181562.687332 -99.221279,3.395567,18681562.694512 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-99.221279,3.395240,20181562.687332 -97.396205,6.071736,20224050.208376 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-99.221279,3.395240,20181562.687332 -96.546293,1.573762,20223816.793703 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>-99.221279,3.395240,20181562.687332 80.778721,-3.438618,-3378061.286172 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>X-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>red_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>137.754135,51.243981,20188625.325372 136.570431,51.866068,19960645.949870 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Y-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>green_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>137.754135,51.243981,20188625.325372 136.505039,50.676324,20402901.189035 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Z-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>blue_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>137.754135,51.243981,20188625.325372 137.754135,51.909317,20580352.059276 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaw-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>pink_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>137.754135,51.243981,20188625.325372 137.754135,51.246679,18688625.808105 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Roll-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>cyan_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>137.754135,51.243981,20188625.325372 142.333936,49.840432,20230444.096973 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Pitch-Axis</name>
+            <visibility>1</visibility>
+            <styleUrl>purple_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>137.754135,51.243981,20188625.325372 135.784718,48.272562,20229862.783417 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satellite Attitude</name>
+            <visibility>1</visibility>
+            <styleUrl>orange_line</styleUrl>
+            <LineString>
+              <extrude>0</extrude>
+              <tessellate>0</tessellate>
+              <coordinates>137.754135,51.243981,20188625.325372 -42.245865,-51.596714,-3365084.533429 </coordinates>
+              <altitudeMode>absolute</altitudeMode>
+            </LineString>
+          </Placemark>
+        </Folder>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>
