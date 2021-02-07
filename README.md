@@ -6,7 +6,7 @@ The application is built to display "large scale" data such as satellite orbits 
 
 rkmlviewer is written in Go, uses OpenGL 3.3 for rendering, and GLFW for cross platform windowing support.
 
-rkmlviewer is developed on Ubuntu, but should run on other operating systems (Windows, macOS, other linux distros) (not tested)
+rkmlviewer is developed on Ubuntu, and has not been tested on other operating systems.
 
 rkmlviewer contains a command line (ncurses style) gui to select application options at runtime.
 
